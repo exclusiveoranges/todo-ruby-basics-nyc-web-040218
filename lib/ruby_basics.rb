@@ -26,6 +26,6 @@ def pizza_party
   "cheese"
 end
 
-def pizza_party(cheese)
-  cheese
-end
+# def pizza_party(cheese)
+#   cheese
+# end
